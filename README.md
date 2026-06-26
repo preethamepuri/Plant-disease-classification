@@ -39,6 +39,10 @@ This project demonstrates the complete deep learning pipeline—from dataset pre
 ```
 Potato-Disease-Classification/
 │
+├── images
+    ├── Training vs Validation accuracy.png
+    ├── Training vs Validation loss.png
+    ├── leaf_images.png
 ├── potato_disease_classification.ipynb
 ├── requirements.txt
 ├── README.md
